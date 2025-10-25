@@ -1,0 +1,197 @@
+OriginalName,MatchedName,MatchDistance,Name,KEGG
+1-monoolein,1-Monolaurin,0.143939394,1-Monolaurin,NA
+1-monopalmitin,1-Monolaurin,0.184126984,1-Monolaurin,NA
+1-monostearin,1-Monolaurin,0.132478632,1-Monolaurin,NA
+2_3_5-trihydroxypyrazine NIST,"2,3,5-Trihydroxyphenethylamine",0.222378962,"2,3,5-Trihydroxyphenethylamine",NA
+2_3-dihydroxybutanoic acid NIST,"2,2-Dihydroxybutanoic acid",0.100909843,"2,2-Dihydroxybutanoic acid",NA
+2-deoxyerythritol,1-deoxyheptitol,0.161337355,1-deoxyheptitol,NA
+2-deoxytetronic acid NIST,4-Deoxythreonic acid,0.145185185,4-Deoxythreonic acid,NA
+2-hydroxybutanoic acid,2-hydroxyphytanic acid,0.090909091,2-hydroxyphytanic acid,NA
+2-hydroxyglutaric acid,D-2-Hydroxyglutaric acid,0.058080808,D-2-Hydroxyglutaric acid,C01087
+2-hydroxyhippuric acid,m-Hydroxyhippuric acid,0.03030303,m-Hydroxyhippuric acid,NA
+2-hydroxyvaleric acid,2-Hydroxyvaleric acid,0,2-Hydroxyvaleric acid,NA
+2-ketoisocaproic acid,2-Ketoisovaleric acid,0.16005291,2-Ketoisovaleric acid,C00141
+3-aminoisobutyric acid,3-Aminoisobutanoic acid,0.107114625,3-Aminoisobutanoic acid,C05145
+3-hydroxybutanoic acid,3-hydroxyheptanoic Acid,0.073781291,3-hydroxyheptanoic Acid,NA
+3-phosphoglycerate,3-phosphoglyceraldehyde,0.10547504,3-phosphoglyceraldehyde,NA
+4-hydroxyproline,4-Hydroxyproline,0,4-Hydroxyproline,C01157
+5-hydroxynorvaline NIST,5-Hydroxy Rosiglitazone,0.161956522,5-Hydroxy Rosiglitazone,NA
+5-methoxytryptamine,5-Methoxytryptamine,0,5-Methoxytryptamine,C05659
+acetophenone NIST,Acetophenone,0.098039216,Acetophenone,C07113
+aconitic acid,Lactobionic acid,0.100961538,Lactobionic acid,NA
+adenosine-5-phosphate,Adenosine-5-phosphate,0,Adenosine-5-phosphate,C00020
+adipic acid,Ethyladipic acid,0.104166667,Ethyladipic acid,NA
+alanine,D-Alanine,0.074074074,D-Alanine,C00133
+alpha ketoglutaric acid,alpha-Ketoglutaric acid,0.028985507,alpha-Ketoglutaric acid,C00026
+aminomalonic acid,Aminomalonic acid,0,Aminomalonic acid,C00872
+arabinose,Arabinose,0,Arabinose,NA
+arabitol,L-Arabitol,0.066666667,L-Arabitol,C00532
+arachidic acid,Arachidonic acid,0.041666667,Arachidonic acid,C00219
+arachidonic acid,Arachidonic acid,0,Arachidonic acid,C00219
+asparagine,Asparaginase,0.055555556,Asparaginase,C00152
+aspartic acid,L-Aspartic acid,0.044444444,L-Aspartic acid,C00049
+azelaic acid,Amlaic acid,0.085858586,Amlaic acid,NA
+behenic acid,Evernic acid,0.111111111,Evernic acid,NA
+benzoic acid,Benzoic acid,0,Benzoic acid,C00539
+benzylalcohol,Benzyl alcohol,0.023809524,Benzyl alcohol,C00556
+beta alanine,beta-Alanine,0.055555556,beta-Alanine,C00099
+beta-glycerolphosphate,Quinine 2-glycerophosphate,0.163170163,Quinine 2-glycerophosphate,NA
+beta-mannosylglycerate,beta-Mangostin,0.198634699,beta-Mangostin,NA
+capric acid,Alepric acid,0.085858586,Alepric acid,C01571
+caprylic acid,Acrylic acid,0.053418803,Acrylic acid,C00511
+cholesterol,Cholesterol,0,Cholesterol,C00187
+citric acid,Citric acid,0,Citric acid,C00158
+citrulline,Citrulline,0,Citrulline,C00327
+conduritol beta epoxide,Conduritol B epoxide,0.110144928,Conduritol B epoxide,NA
+creatinine,Creatinine,0,Creatinine,C00791
+cysteine,L-Cysteine,0.066666667,L-Cysteine,C00097
+cysteine-glycine,Cysteinyl-Leucine,0.104493464,Cysteinyl-Leucine,NA
+cystine,Cystamine,0.074074074,Cystamine,C00491
+dihydro-3-coumaric acid,Dihydro-3-coumaric acid,0,Dihydro-3-coumaric acid,C11457
+erythritol,Erythritol,0,Erythritol,C00503
+erythrose,Erythrose,0,Erythrose,C01796
+ethanolamine,Ethanolamine,0,Ethanolamine,C00189
+fructose,D-Fructose,0.066666667,D-Fructose,C10906
+fucose,D-Fucose,0.083333333,D-Fucose,NA
+fumaric acid,Fumaric acid,0,Fumaric acid,C00122
+gamma-tocopherol,gamma-Tocopherol,0,gamma-Tocopherol,NA
+gluconic acid,Gluconic acid,0,Gluconic acid,NA
+glucose,D-Glucose,0.074074074,D-Glucose,C00031
+glucuronic acid,D-Glucuronic acid,0.039215686,D-Glucuronic acid,NA
+glutamic acid,D-Glutamic acid,0.044444444,D-Glutamic acid,C00217
+glutamine,D-Glutamine,0.060606061,D-Glutamine,C00819
+glutaric acid,Glabric acid,0.079059829,Glabric acid,NA
+glyceric acid,Glyceric acid,0,Glyceric acid,C00258
+glycerol,Glycerol,0,Glycerol,C00116
+glycerol-3-galactoside,Luteolin 7-galactoside,0.181818182,Luteolin 7-galactoside,NA
+glycerol-alpha-phosphate,Glycero-alpha-manno-Heptopyranose,0.214646465,Glycero-alpha-manno-Heptopyranose,C03189
+glycine,Glycine,0,Glycine,C00037
+glycolic acid,Glycolic acid,0,Glycolic acid,C00160
+heptadecanoic acid NIST,Heptadecanoic acid,0.072463768,Heptadecanoic acid,NA
+hippuric acid,Hippuric acid,0,Hippuric acid,C01586
+histidine,Histidine,0,Histidine,C00135
+hydroxylamine,Hydroxylamine,0,Hydroxylamine,C00192
+indole-3-acetate,3-indoleacetate,0.109722222,3-indoleacetate,NA
+indole-3-lactate,Indole-3-acetic acid,0.177380952,Indole-3-acetic acid,C00954
+inosine,Inosine,0,Inosine,C00294
+inulobiose,Inulobiose,0,Inulobiose,C01711
+isocitric acid,isocitric acid,0,isocitric acid,C00451
+isoleucine,D-Isoleucine,0.055555556,D-Isoleucine,C06418
+isothreonic acid,Iotranic acid,0.108974359,Iotranic acid,NA
+kynurenine,D-Kynurenine,0.055555556,D-Kynurenine,NA
+lactamide,Acetamide,0.074074074,Acetamide,C06244
+lactic acid,Lactic acid,0,Lactic acid,C01432
+lauric acid,Oxaluric acid,0.081585082,Oxaluric acid,C00802
+leucine,Leucine,0,Leucine,C00123
+levoglucosan,Levoglucosan,0,Levoglucosan,NA
+lignoceric acid,Lignoceric Ceramide,0.092397661,Lignoceric Ceramide,NA
+linoleic acid,Linoleic acid,0,Linoleic acid,C01595
+linolenic acid,Linolenic acid,0,Linolenic acid,C06427
+lysine,Lysine,0,Lysine,C00047
+malate,Maleate,0.130952381,Maleate,C00149
+maleimide,Maleimide,0,Maleimide,C07272
+maltose,Maltose,0,Maltose,C00208
+maltotriose,Maltotriose,0,Maltotriose,C01835
+mannitol,L-Mannitol,0.066666667,L-Mannitol,C00392
+methanolphosphate,Methinophosphide,0.140931373,Methinophosphide,NA
+methionine,Ethionine,0.033333333,Ethionine,C00073
+methionine sulfoxide,Methionine sulfoxide,0,Methionine sulfoxide,C02989
+methylhexadecanoic acid,5-methylhexadecanoic acid,0.026666667,5-methylhexadecanoic acid,NA
+myo-inositol,myo-Inositol,0,myo-Inositol,C00137
+myristic acid,5-Oxomyristic acid,0.092592593,5-Oxomyristic acid,C06424
+N-acetylglucosamine,N-Acetylglucosamine,0,N-Acetylglucosamine,C00140
+N-acetylglutamate,Cysteinyl-Glutamate,0.134739422,Cysteinyl-Glutamate,NA
+N-acetylglycine NIST,n-decylglycine,0.166117216,n-decylglycine,NA
+naproxen,Naproxen,0,Naproxen,C01517
+nicotinic acid,Nicotinic acid,0,Nicotinic acid,C00253
+N-methylalanine,N-Methylalanine,0,N-Methylalanine,C02721
+oleic acid,Oleic acid,0,Oleic acid,C00712
+ornithine,D-Ornithine,0.060606061,D-Ornithine,C00515
+oxalic acid,Oxalic acid,0,Oxalic acid,C00209
+oxoproline,Oxopropaline D,0.095238095,Oxopropaline D,NA
+palmitic acid,Palmitic acid-1-13C,0.105263158,Palmitic acid-1-13C,C00249
+palmitoleic acid,Perlatolinic acid,0.093382353,Perlatolinic acid,C08362
+parabanic acid NIST,Ananasic acid,0.221935959,Ananasic acid,NA
+paracetamol,Paracetamol-d4,0.071428571,Paracetamol-d4,C06804
+pelargonic acid,Gravolenic acid,0.103968254,Gravolenic acid,NA
+phenylacetic acid,Phenylacetic acid,0,Phenylacetic acid,C07086
+phenylalanine,Phenylalanine,0,Phenylalanine,C02057
+phenylethylamine,1-Phenylethylamine,0.037037037,1-Phenylethylamine,C02455
+pimelic acid,4-Oxopimelic acid,0.098039216,4-Oxopimelic acid,NA
+pipecolic acid,Pipecolic acid,0,Pipecolic acid,NA
+proline,Proline,0,Proline,C16435
+pseudo uridine,Pseudouridine,0.023809524,Pseudouridine,C02067
+pyrophosphate,Dizinc pyrophosphate,0.116666667,Dizinc pyrophosphate,NA
+pyruvic acid,Pyruvic acid-1-13C,0.111111111,Pyruvic acid-1-13C,NA
+quinic acid,Quinic acid,0,Quinic acid,C00296
+rhamnose,L-Rhamnose,0.066666667,L-Rhamnose,C00507
+ribose,D-Ribose,0.083333333,D-Ribose,C00121
+saccharic acid,Laccaic acid ,0.122710623,Laccaic acid ,NA
+salicylic acid,Salicylic acid,0,Salicylic acid,C00805
+serine,D-Serine,0.083333333,D-Serine,C00740
+shikimic acid,Shikimic acid,0,Shikimic acid,C00493
+stearic acid,Asterric acid,0.081196581,Asterric acid,C01530
+succinic acid,Sulfosuccinic acid,0.092592593,Sulfosuccinic acid,C00042
+sucrose,Sucrose,0,Sucrose,C00089
+tagatose,D-Tagatose,0.066666667,D-Tagatose,NA
+taurine,l-Taurine,0.074074074,l-Taurine,C00245
+threitol,D-Threitol,0.066666667,D-Threitol,C16884
+threonic acid,Threonic acid,0,Threonic acid,NA
+threonine,L-Threonine,0.060606061,L-Threonine,C00188
+threose,Trehalose,0.145502646,Trehalose,C01083
+tocopherol alpha,Tocophersolan,0.155448718,Tocophersolan,NA
+trans-4-hydroxyproline,Trans-3-hydroxy-L-proline,0.10023088,Trans-3-hydroxy-L-proline,C05147
+tryptophan,l-Tryptophan,0.055555556,l-Tryptophan,C00078
+tyrosine,L-Tyrosine,0.066666667,L-Tyrosine,C00082
+urea,Urea,0,Urea,C00086
+uric acid,Uric acid,0,Uric acid,C00366
+uridine,Uridine,0,Uridine,C00299
+valine,D-Valine,0.083333333,D-Valine,C06417
+xanthine,Xanthine,0,Xanthine,C00385
+xylitol,Xylitol,0,Xylitol,C00379
+xylose,D-Xylose,0.083333333,D-Xylose,C00181
+NA,NA,NA,NA,NA
+238267 trisaccharide,a-Trisaccharide,0.161111111,a-Trisaccharide,NA
+2-aminoadipic acid,Aminoadipic acid,0.037037037,Aminoadipic acid,C00956
+2-deoxytetronic acid,4-Deoxythreonic acid,0.085185185,4-Deoxythreonic acid,NA
+2-oxogluconic acid NIST,Oxolinic acid,0.196209588,Oxolinic acid,C11342
+400671 carbohydrate,Carbohydrase,0.168128655,Carbohydrase,NA
+4-hydroxyphenylacetic acid,2-Hydroxyphenylacetic acid,0.025641026,2-Hydroxyphenylacetic acid,C05852
+5-aminovaleric acid lactame,5-Aminovaleric acid,0.098765432,5-Aminovaleric acid,C00431
+6-deoxyglucitol NIST,6-Deoxyilludin S,0.170833333,6-Deoxyilludin S,NA
+715929 carbohydrate,Carbohydrase,0.168128655,Carbohydrase,NA
+allantoic acid,Allenolic acid,0.095238095,Allenolic acid,C14613
+beta-alanine,beta-Alanine,0,beta-Alanine,C00099
+beta-sitosterol,beta-Sitosterol,0,beta-Sitosterol,C01753
+butane-2_3-diol (NIST),Butanediol,0.181818182,Butanediol,NA
+cellobiotol,Cellobiose,0.157575758,Cellobiose,C00185
+conduritol beta expoxide,Conduritol B epoxide,0.122222222,Conduritol B epoxide,NA
+cyano-L-alanine,L-3-Cyanoalanine,0.109722222,L-3-Cyanoalanine,C02512
+cytidine-5^-diphosphate,"Cytidine 3',5'-diphosphate",0.108961087,"Cytidine 3',5'-diphosphate",NA
+deoxytetronic acid NIST,4-Deoxythreonic acid,0.156564365,4-Deoxythreonic acid,NA
+deoxythreittol NIST,Deoxyfrenolicin,0.217251462,Deoxyfrenolicin,NA
+dodecanol,1-Dodecanol,0.060606061,1-Dodecanol,C02277
+fucose + rhamnose,Fucosterol,0.243137255,Fucosterol,C08817
+galactonic acid,Galactonic acid,0,Galactonic acid,C00880
+galactose-6-phosphate,Galactose-1-phosphate,0.031746032,Galactose-1-phosphate,C01113
+gamma-glutamyl-valine,gamma-Glutamylvaline,0.015873016,gamma-Glutamylvaline,NA
+glyoxalurea NIST,Glyoxal,0.1875,Glyoxal,C14448
+guanosine,Guanosine,0,Guanosine,C00387
+hypoxanthine,Hypoxanthine,0,Hypoxanthine,C00262
+inosine 5^-monophosphate,Guanosine 2'-monophosphate,0.137515263,Guanosine 2'-monophosphate,NA
+inositol myo-,Inositol,0.128205128,Inositol,NA
+isolinoleic acid NIST,Isolinoleic acid,0.079365079,Isolinoleic acid,NA
+lathosterol NIST,Lathosterol,0.104166667,Lathosterol,C01189
+levanbiose,Levanase,0.141666667,Levanase,NA
+lyxose,Xylobiose,0.166666667,Xylobiose,C01630
+malic acid,Malic acid,0,Malic acid,C00711
+malonic acid,Mevalonic acid,0.047619048,Mevalonic acid,C00418
+N-acetylmannosamine,N-Acetylmannosamine,0,N-Acetylmannosamine,NA
+octadecanol,1-Octadecanol,0.051282051,1-Octadecanol,NA
+p-cresol,p-Cresol,0,p-Cresol,C01468
+phosphoethanolamine,Phosphonoacetamide,0.131335283,Phosphonoacetamide,NA
+ribitol,Ribitol,0,Ribitol,C00474
+salicylaldehyde,Salicylaldehyde,0,Salicylaldehyde,C06202
+sorbitol,L-Sorbitol TMS,0.142857143,L-Sorbitol TMS,C00794
+stigmasterol,Stigmasterol,0,Stigmasterol,C05442
+trihydroxypyrazine NIST,Trihydroxysilane,0.195910973,Trihydroxysilane,NA
