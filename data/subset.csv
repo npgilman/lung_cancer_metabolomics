@@ -1,0 +1,26 @@
+,OriginalName,MatchedName,MatchDistance,Name,KEGG
+8,2-hydroxyglutaric acid,D-2-Hydroxyglutaric acid,0.058080808,D-2-Hydroxyglutaric acid,C01087
+19,aconitic acid,Lactobionic acid,0.100961538,Lactobionic acid,
+21,adipic acid,Ethyladipic acid,0.104166667,Ethyladipic acid,
+25,arabinose,Arabinose,0.0,Arabinose,
+29,asparagine,Asparaginase,0.055555556,Asparaginase,C00152
+30,aspartic acid,L-Aspartic acid,0.044444444,L-Aspartic acid,C00049
+31,azelaic acid,Amlaic acid,0.085858586,Amlaic acid,
+34,benzylalcohol,Benzyl alcohol,0.023809524,Benzyl alcohol,C00556
+39,caprylic acid,Acrylic acid,0.053418803,Acrylic acid,C00511
+47,cystine,Cystamine,0.074074074,Cystamine,C00491
+49,erythritol,Erythritol,0.0,Erythritol,C00503
+61,glutaric acid,Glabric acid,0.079059829,Glabric acid,
+66,glycine,Glycine,0.0,Glycine,C00037
+69,hippuric acid,Hippuric acid,0.0,Hippuric acid,C01586
+79,kynurenine,D-Kynurenine,0.055555556,D-Kynurenine,
+81,lactic acid,Lactic acid,0.0,Lactic acid,C01432
+88,lysine,Lysine,0.0,Lysine,C00047
+90,maleimide,Maleimide,0.0,Maleimide,C07272
+91,maltose,Maltose,0.0,Maltose,C00208
+94,methanolphosphate,Methinophosphide,0.140931373,Methinophosphide,
+116,phenylalanine,Phenylalanine,0.0,Phenylalanine,C02057
+121,pseudo uridine,Pseudouridine,0.023809524,Pseudouridine,C02067
+132,succinic acid,Sulfosuccinic acid,0.092592593,Sulfosuccinic acid,C00042
+143,tyrosine,L-Tyrosine,0.066666667,L-Tyrosine,C00082
+148,xanthine,Xanthine,0.0,Xanthine,C00385
